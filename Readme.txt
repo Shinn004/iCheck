@@ -26,9 +26,9 @@ FIRST DOWNLOAD
 lahat ng ito ituturo ko
 
 admin
-Username: admin@username
-Password: admin@password
+Username: duc@gmail.com
+Password: duc
 
 user
-Username:admin@password
-Password:jane
+Username:duc@gmail.com
+Password:duc1007
